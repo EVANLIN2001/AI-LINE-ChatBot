@@ -16,6 +16,6 @@
 ## 技術棧
 
 - **後端框架**：Python, Flask
-- **LINE 串接**：LINE Messaging API, line-bot-sdk
+- **LINE 串接**：LINE Messaging API, LINE Bot SDK
 - **AI 模型串接**：Google Gemini API
 - **部署平台**：Fly.io, Docker
