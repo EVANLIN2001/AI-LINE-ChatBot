@@ -19,3 +19,5 @@
 - **LINE 串接**：LINE Messaging API, LINE Bot SDK
 - **AI 模型串接**：Google Gemini API
 - **部署平台**：Fly.io, Docker
+
+## 此專案涵蓋 LINE Bot 開發、AI 模型串接與 Fly.io 雲端部署，結構簡潔，適合作為學習與實作的入門範例。
