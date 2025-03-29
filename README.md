@@ -3,7 +3,6 @@
 這個專案是一個基於 Python 與 Flask 的 LINE 聊天機器人，利用 LINE Messaging API 與 Google Gemini 2.0 模型，提供專業且快速的 AI 自動回覆服務。
 
 <img src="https://github.com/EVANLIN2001/AI-LINE-ChatBot/blob/main/image/S__74170384_0.jpg?raw=true" alt="Demo 1" width="250"><br>
-<img src="https://github.com/EVANLIN2001/AI-LINE-ChatBot/blob/main/image/S__74170385_0.jpg?raw=true" alt="Demo 2" width="500">
 
 ## 功能特色
 
@@ -18,6 +17,8 @@
 
 ### 記憶功能
 使用者對話將自動儲存在短期記憶中，讓 Gemini 回覆更具上下文，提升對話連貫性與準確度。
+
+<img src="https://github.com/EVANLIN2001/AI-LINE-ChatBot/blob/main/image/S__74170385_0.jpg?raw=true" alt="Demo 2" width="500">
 
 ## 技術棧
 
