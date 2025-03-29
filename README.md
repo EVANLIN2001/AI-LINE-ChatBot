@@ -20,4 +20,12 @@
 - **AI 模型串接**：Google Gemini API
 - **部署平台**：Fly.io, Docker
 
+## 專案挑戰
+
+- 本專案雖然程式架構簡單，功能明確，但實作過程中包含：
+- LINE Webhook 的即時回應與 timeout 除錯
+- Gemini 模型回應延遲處理與非同步設計
+- 雲端部署環境（Fly.io）下的模組安裝、環境變數管理
+- Docker 建構與機器啟動策略調整
+
 ## 此專案涵蓋 LINE Bot 開發、AI 模型串接與 Fly.io 雲端部署，結構簡潔，適合作為學習與實作的入門範例。
