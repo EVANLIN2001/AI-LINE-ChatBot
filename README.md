@@ -2,15 +2,8 @@
 
 這個專案是一個基於 Python 與 Flask 的 LINE 聊天機器人，利用 LINE Messaging API 與 Google Gemini 2.0 模型，提供專業且快速的 AI 自動回覆服務。
 
-<div style="display: flex; gap: 20px; align-items: flex-start;">
-  <!-- 第一張圖 -->
-  <img src="https://github.com/EVANLIN2001/AI-LINE-ChatBot/blob/main/image/S__74170384_0.jpg?raw=true" 
-       alt="Demo 1" width="300" style="object-fit: cover;">
-
-  <!-- 第二張圖（高度提高）-->
-  <img src="https://github.com/EVANLIN2001/AI-LINE-ChatBot/blob/main/image/S__74170385_0.jpg?raw=true" 
-       alt="Demo 2" width="300" style="height: 360px; object-fit: cover;">
-</div>
+<img src="https://github.com/EVANLIN2001/AI-LINE-ChatBot/blob/main/image/S__74170384_0.jpg?raw=true" alt="Demo 1" width="250"><br>
+<img src="https://github.com/EVANLIN2001/AI-LINE-ChatBot/blob/main/image/S__74170385_0.jpg?raw=true" alt="Demo 2" width="150">
 
 ## 功能特色
 
